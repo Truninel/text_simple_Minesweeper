@@ -1,1 +1,1 @@
-# text_simple_Minesweeper
+just for practice
